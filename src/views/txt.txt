@@ -1,0 +1,17 @@
+ 
+
+dette qui s'instancie des la première ligne de code
+
+dette qui augmente lentement mais surement
+
+transparante tant quon a pas à la payer 
+
+maintenir son code le neuf possible 
+
+ecrt entre cout initial < cout proportionnelle lié à l'age du code 
+
+pkoi...
+
+support qui veillisse => maj => rupture de comptabilité 
+
+maintenabilité du code 
